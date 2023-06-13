@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-remainder/static/css/main.709290d2.css",
+    "main.js": "/todo-remainder/static/js/main.4eb7d296.js",
+    "index.html": "/todo-remainder/index.html",
+    "main.709290d2.css.map": "/todo-remainder/static/css/main.709290d2.css.map",
+    "main.4eb7d296.js.map": "/todo-remainder/static/js/main.4eb7d296.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.709290d2.css",
+    "static/js/main.4eb7d296.js"
+  ]
+}

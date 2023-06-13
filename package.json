@@ -1,6 +1,7 @@
 {
-  "name": "react-complete-guide",
+  "name": "todo-remainder",
   "version": "0.1.0",
+  "homepage": "https://haneelkumar7.github.io/todo-remainder/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
